@@ -3,6 +3,8 @@
 CollapsingToolbarLayout作用是提供了一个可以折叠的Toolbar，它继承至FrameLayout，给它设置layout_scrollFlags，它可以控制包含在CollapsingToolbarLayout中的控件(如：ImageView、Toolbar)在响应layout_behavior事件时作出相应的scrollFlags滚动事件(移除屏幕或固定在屏幕顶端)。建议在Android5.0+使用比较好。低版本不太适配
 
 ![demo](http://upload-images.jianshu.io/upload_images/3805053-17ab22fca23a4466.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+我的简书：http://www.jianshu.com/p/564a0c56022b
+
 ### 使用CollapsingToolbarLayout：
 ```
 <android.support.design.widget.AppBarLayout  
