@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToolBarDemo</string>
+    <string name="title_fragment_five">折叠式</string>
+</resources>
